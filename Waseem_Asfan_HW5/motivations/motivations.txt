@@ -1,7 +1,0 @@
-since I have decided to stick with this donut idea throughout the course, I
-wanted to share what my original motivation was for making this donut scene.
-When I first learned how to use blender, about 3 years ago, I started with 
-a donut tutorial made by the youtube channel "Blender Guru". Its a very
-popular tutorial and in the end I created a nicely animated donut scene which
-I have included in the folder. When I started with webgl I wanted to try and
-remake the same scene but without the same luxuries that is provided by blender.
